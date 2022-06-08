@@ -8,8 +8,7 @@ const Technologies = () =>  (
     <SectionDivider divider />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I've worked with a range a technologies in the web development world.
-      From Back-end To Design
+      I use these technologies for web development and Cross-platform
     </SectionText>
     <List>
       <ListItem>
@@ -32,7 +31,7 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Node and Databases
+            NodeJS, ExpressJS and Databases
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -41,10 +40,10 @@ const Technologies = () =>  (
           <DiZend size="3rem" />
         </picture>
         <ListContainer>
-          <ListTitle>UI/UX</ListTitle>
+          <ListTitle>Cross-platform</ListTitle>
           <ListParagraph>
             Experience with <br />
-            tools like Figma
+            React and Flutter
           </ListParagraph>
         </ListContainer>
       </ListItem>
